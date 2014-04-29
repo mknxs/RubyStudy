@@ -1,0 +1,8 @@
+<<?xml version="1.0" encoding="UTF-8"?>
+<title>test_xml_builder</title>
+<text>this is test</test>
+<items>
+<item>item1</item>
+<item>item2</item>
+<item>item3</item>
+</items>
